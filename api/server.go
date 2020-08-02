@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/loiuevandyke/fullstack/api/controllers"
+	"github.com/louievandyke/fullstack/api/controllers"
 	"github.com/louievandyke/fullstack/api/seed"
 )
 
